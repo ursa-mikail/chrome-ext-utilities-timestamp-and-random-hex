@@ -1,0 +1,11 @@
+{
+    "name": "Utility Plugin: timestamp, random hex strings",
+    "version": "1.0.0",
+    "description": "A plugin with utilities to generate a timestamp, random hex strings.",
+    "manifest_version": 3,
+    "author": "Mikail Eliyah",
+    "action": {
+        "default_popup": "index.html",
+        "default_title": "Utility Plugin: timestamp, random hex strings"
+    }
+}
